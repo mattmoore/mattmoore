@@ -27,7 +27,8 @@
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattmoore&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&theme=tokyonight&hide=stars,contribs)](https://github.com/mattmoore)
 
-### Languages
+
+### Languages / Stack
 
 <a href="https://www.scala-lang.org">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
@@ -43,5 +44,11 @@
 </a>
 <a href="https://www.python.org">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+</a>
+<a href="https://typelevel.org">
+  <img align="left" width="26px" src="https://avatars.githubusercontent.com/u/3731824?s=200&v=4" />
+</a>
+<a href="https://spark.apache.org">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 </a>
 
