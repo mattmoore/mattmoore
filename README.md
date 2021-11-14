@@ -24,5 +24,5 @@
   </tbody>
 </table>
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattmoore&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,contribs)](https://github.com/mattmoore)
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattmoore&include_all_commits=true&count_private=true&theme=tokyonight&hide=stars,contribs)](https://github.com/mattmoore)
 
