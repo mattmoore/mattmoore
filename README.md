@@ -1,4 +1,5 @@
-<h3>Open source projects</h3>
+### Open Source Projects
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -24,5 +25,23 @@
   </tbody>
 </table>
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattmoore&include_all_commits=true&count_private=true&theme=tokyonight&hide=stars,contribs)](https://github.com/mattmoore)
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattmoore&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&theme=tokyonight&hide=stars,contribs)](https://github.com/mattmoore)
+
+### Languages
+
+<a href="https://www.scala-lang.org">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
+</a>
+<a href="https://kotlinlang.org">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+</a>
+<a href="https://clojure.org">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" />
+</a>
+<a href="https://www.haskell.org">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
+</a>
+<a href="https://www.python.org">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+</a>
 
