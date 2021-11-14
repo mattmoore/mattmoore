@@ -31,24 +31,34 @@
 ### Languages / Stack
 
 <a href="https://www.scala-lang.org">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
+  <img align="left" height="30px" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" />
 </a>
 <a href="https://kotlinlang.org">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+  <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 </a>
 <a href="https://clojure.org">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" />
+  <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" />
 </a>
 <a href="https://www.haskell.org">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
+  <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
 </a>
 <a href="https://www.python.org">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
+
 <a href="https://typelevel.org">
-  <img align="left" width="26px" src="https://avatars.githubusercontent.com/u/3731824?s=200&v=4" />
+  <img align="left" height="30px" src="https://avatars.githubusercontent.com/u/3731824?s=200&v=4" />
+</a>
+<a href="https://fs2.io">
+  <img align="left" height="30px" src="https://fs2.io/_media/logo.png" />
+</a>
+<a href="https://www.postgresql.org">
+  <img align="left" height="30px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
+</a>
+<a href="https://kafka.apache.org">
+  <img align="left" height="30px" src="https://www.instana.com/media/01_INSTANA_IconSet_Kafka.svg" />
 </a>
 <a href="https://spark.apache.org">
-  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+  <img align="left" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 </a>
 
