@@ -62,7 +62,7 @@
   <img align="left" height="30px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
 </a>
 <a href="https://kafka.apache.org">
-  <img align="left" height="30px" src="https://www.instana.com/media/01_INSTANA_IconSet_Kafka.svg" />
+  <img align="left" height="30px" src="https://kafka.apache.org/logos/kafka_logo--simple.png" />
 </a>
 <a href="https://spark.apache.org">
   <img align="left" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
