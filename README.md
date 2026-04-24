@@ -11,22 +11,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/lexi-compiler/lexi"><b>Lexi Compiler</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/lexi-compiler/lexi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/lexi-compiler/lexi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/lexi-compiler/lexi?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mattmoore/scala-playground"><b>Scala Playground</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mattmoore/scala-playground?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mattmoore/scala-playground?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mattmoore/scala-playground?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mattmoore/haskell-playground"><b>Haskell Playground</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mattmoore/haskell-playground?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mattmoore/haskell-playground?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mattmoore/haskell-playground?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/mesh-db/mesh"><b>MeshDB</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mesh-db/mesh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mesh-db/mesh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mesh-db/mesh?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
