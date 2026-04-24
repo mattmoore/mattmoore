@@ -19,8 +19,6 @@
   </tbody>
 </table>
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattmoore&include_all_commits=true&count_private=true&hide_border=true&show_icons=true&theme=tokyonight&hide=stars,contribs)](https://github.com/mattmoore)
-
 
 ### Languages / Stack
 
