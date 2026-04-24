@@ -22,6 +22,9 @@
 
 ### Languages / Stack
 
+<a href="https://rust-lang.org">
+  <img align="left" height="30px" src="https://raw.githubusercontent.com/rust-lang/rust-artwork/refs/heads/master/logo/rusty/rust-logo-512x512.png" />
+</a>
 <a href="https://www.scala-lang.org">
   <img align="left" height="30px" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" />
 </a>
